@@ -1,0 +1,1 @@
+This Python script implements a Naive Bayes classifier from scratch to classify Iris flower species using the UCI Iris dataset. It includes functionality for training, prediction, and evaluating model performance using accuracy, confusion matrix, and classification report.
